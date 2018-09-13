@@ -2,8 +2,8 @@
 A list of 3D printing resources.
 
 ## Table of Contents
-- [Troubleshooting] (#troubleshooting)
-- [Software] (#software)
+- [Troubleshooting](#troubleshooting)
+- [Software](#software)
 - [CAD Tools](#cad-tools)
 - [Control Software](#control-software)
 - [File Formats](#file-formats)
@@ -21,12 +21,12 @@ A list of 3D printing resources.
 - [Accessories](#accessories)
 
 ## Troubleshooting
-- [Ultimate Troubleshooting Guide] (https://rigid.ink/pages/ultimate-troubleshooting-guide)
-- [Simplify3d Troubleshooting Guide] (https://www.simplify3d.com/support/print-quality-troubleshooting/)
+- [Ultimate Troubleshooting Guide](https://rigid.ink/pages/ultimate-troubleshooting-guide)
+- [Simplify3d Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/)
 
 ## Software
-- [Cura] (https://ultimaker.com/en/products/ultimaker-cura-software/list)
-- [Meshmixer] (http://www.meshmixer.com/download.html)
+- [Cura](https://ultimaker.com/en/products/ultimaker-cura-software/list)
+- [Meshmixer](http://www.meshmixer.com/download.html)
 
 
 
