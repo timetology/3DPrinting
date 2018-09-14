@@ -3,7 +3,7 @@ A list of 3D printing resources.
 
 ## Table of Contents
 - [Troubleshooting](#troubleshooting)
-- [Tutorials] (#tutorials)
+- [Tutorials](#tutorials)
 - [Software](#software)
 - [CAD Tools](#cad-tools)
 - [Control Software](#control-software)
