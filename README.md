@@ -3,6 +3,7 @@ A list of 3D printing resources.
 
 ## Table of Contents
 - [Troubleshooting](#troubleshooting)
+- [Tutorials] (#tutorials)
 - [Software](#software)
 - [CAD Tools](#cad-tools)
 - [Control Software](#control-software)
@@ -24,14 +25,15 @@ A list of 3D printing resources.
 - [Ultimate Troubleshooting Guide](https://rigid.ink/pages/ultimate-troubleshooting-guide)
 - [Simplify3d Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/)
 
+## Tutorials
+- [Cura Tutorial](https://all3dp.com/1/cura-tutorial-software-slicer-cura-3d/)
+
 ## Software
 - [Cura](https://ultimaker.com/en/products/ultimaker-cura-software/list)
 - [Meshmixer](http://www.meshmixer.com/download.html)
 
 
-
-
-## CAD Tools
+### CAD Tools
 
 - [AutoCAD](http://autodesk.com/products/autocad/overview) [commercial]
 - [FreeCAD](http://freecadweb.org)
@@ -39,7 +41,7 @@ A list of 3D printing resources.
 - [Solidworks](http://solidworks.com) [commercial]
 
 
-## Control Software
+### Control Software
 
 - [Makerbot Desktop](http://www.makerbot.com/desktop) - Discover, manage and share your 3D prints.
 - [OctoPrint](http://octoprint.org) - Web interface for 3D printer.
@@ -49,7 +51,7 @@ A list of 3D printing resources.
 - [Formide](http://printr.com/formide) - Platform to manage multiple printers, multiple users and projects.
 
 
-## File Formats
+### File Formats
 
 Name | License | Encoding | Features
 -----|---------|----------|---------
@@ -83,7 +85,7 @@ Name | License | Encoding | Features
 [STEP]: https://en.wikipedia.org/wiki/ISO_10303
 
 
-## Slicers
+### Slicers
 
 Convert 3D models into G-Code.
 
@@ -96,7 +98,7 @@ Convert 3D models into G-Code.
 - [Skeinforge](http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge) - Tool chain of Python scripts.
 
 
-## Scanner
+### Scanner
 
 - [123D Catch](http://www.123dapp.com/catch) - Free app to create 3D scans of virtually any object.
 - [iSense 3D scanner](http://cubify.com/products/isense)
