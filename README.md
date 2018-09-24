@@ -20,6 +20,7 @@ A list of 3D printing resources.
 - [Technologies](#technologies)
 - [Education](#education)
 - [Accessories](#accessories)
+- [Printers](#printers)
 
 ## Troubleshooting
 - [Ultimate Troubleshooting Guide](https://rigid.ink/pages/ultimate-troubleshooting-guide)
@@ -186,3 +187,8 @@ From game assets:
 ## Accessories
 
 - [REVOcaster](http://magicmaker.ca/#revo11) - Desktop rotational casting machine.
+
+## Printers
+Printers that myself or friends have
+- [Creality](https://www.creality3d.cn) - Creality
+
