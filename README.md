@@ -32,6 +32,8 @@ A list of 3D printing resources.
 ## Software
 - [Cura](https://ultimaker.com/en/products/ultimaker-cura-software/list)
 - [Meshmixer](http://www.meshmixer.com/download.html)
+- [Flashforge Flashprint](http://www.flashforge.com/support-center/flashprint-support/#)
+- [Flashforge Happy3D](http://www.flashforge.com/happy-3d-support/)
 
 
 ### CAD Tools
