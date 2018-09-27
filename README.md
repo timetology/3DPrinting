@@ -26,6 +26,7 @@ A list of 3D printing resources.
 ## My Printer
 ### Creality Cr-10s
 #### Troubleshooting
+- [Creality Wobbly Mount Plate FIX](https://www.youtube.com/watch?v=hBp_92zIIP4)
 #### Accessories
 -[Anycubic Ultrabase](http://www.anycubic3d.com/products/show/1060.html)
 PLA/TPU/PETG: 50-70C
@@ -34,8 +35,8 @@ ABS/Nylon/PC/PP: 90-120C
 ## Troubleshooting
 - [Ultimate Troubleshooting Guide](https://rigid.ink/pages/ultimate-troubleshooting-guide)
 - [Simplify3d Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/)
-### Creality Cr-10s Troubleshooting
-- [Creality Wobbly Mount Plate FIX](https://www.youtube.com/watch?v=hBp_92zIIP4)
+### PETG
+- [Matter Hackers](https://www.matterhackers.com/news/how-to-succeed-when-printing-with-petg-filament?gclid=Cj0KCQjw_7HdBRDPARIsAN_ltcKkCKdDrdIPIf86QlZk4nTU_mOF8vcErYJBViWVwha69RTqfa8MfP4aAvDqEALw_wcB) How to Succeed when Printing with PETG Filament
 
 ## Tutorials
 - [Cura Tutorial](https://all3dp.com/1/cura-tutorial-software-slicer-cura-3d/)
