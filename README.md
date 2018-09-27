@@ -202,6 +202,10 @@ From game assets:
 - [REVOcaster](http://magicmaker.ca/#revo11) - Desktop rotational casting machine.
 
 ## Printers
-Printers that myself or friends have
-- [Creality](https://www.creality3d.cn) - Creality
+Printers that myself or friends have or are on my radar
+### Have
+- [Creality](https://www.creality3d.cn) - Creality CR-10s
+
+### Radar
+- [AnyCubic](http://www.anycubic3d.com/products/show/1356.html)
 
