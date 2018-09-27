@@ -25,6 +25,8 @@ A list of 3D printing resources.
 ## Troubleshooting
 - [Ultimate Troubleshooting Guide](https://rigid.ink/pages/ultimate-troubleshooting-guide)
 - [Simplify3d Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/)
+### Creality Cr-10s Troubleshooting
+- [Creality Wobbly Mount Plate FIX](https://www.youtube.com/watch?v=hBp_92zIIP4)
 
 ## Tutorials
 - [Cura Tutorial](https://all3dp.com/1/cura-tutorial-software-slicer-cura-3d/)
