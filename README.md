@@ -2,6 +2,7 @@
 A list of 3D printing resources.
 
 ## Table of Contents
+- [My Printer](#my-printer)
 - [Troubleshooting](#troubleshooting)
 - [Tutorials](#tutorials)
 - [Software](#software)
@@ -21,6 +22,14 @@ A list of 3D printing resources.
 - [Education](#education)
 - [Accessories](#accessories)
 - [Printers](#printers)
+
+## My Printer
+### Creality Cr-10s
+#### Troubleshooting
+#### Accessories
+-[Anycubic Ultrabase](http://www.anycubic3d.com/products/show/1060.html)
+PLA/TPU/PETG: 50-70C
+ABS/Nylon/PC/PP: 90-120C
 
 ## Troubleshooting
 - [Ultimate Troubleshooting Guide](https://rigid.ink/pages/ultimate-troubleshooting-guide)
