@@ -39,7 +39,9 @@ ABS/Nylon/PC/PP: 90-120C
 - [Matter Hackers](https://www.matterhackers.com/news/how-to-succeed-when-printing-with-petg-filament?gclid=Cj0KCQjw_7HdBRDPARIsAN_ltcKkCKdDrdIPIf86QlZk4nTU_mOF8vcErYJBViWVwha69RTqfa8MfP4aAvDqEALw_wcB) How to Succeed when Printing with PETG Filament
 
 ## Tutorials
+### Cura
 - [Cura Tutorial](https://all3dp.com/1/cura-tutorial-software-slicer-cura-3d/)
+- [Cura Mesh Infill](https://www.youtube.com/watch?v=PUwf79wySUY)
 
 ## Software
 - [Cura](https://ultimaker.com/en/products/ultimaker-cura-software/list)
